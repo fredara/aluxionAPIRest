@@ -9,7 +9,7 @@
   "author": "Freddy Ramirez",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.1186.0",
+    "aws-sdk": "^2.1361.0",
     "bcrypt": "^5.0.1",
     "body-parser": "^1.20.0",
     "cors": "^2.8.5",
